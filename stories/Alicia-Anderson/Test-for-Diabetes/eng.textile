@@ -1,6 +1,6 @@
-Title: Tests for Diabetes
-
-From: Alicia Anderson
+Tests for Diabetes
+  F true report
+From: Alicia Anderson (1997'05)
 
 I am 28 (29 in June)
 
