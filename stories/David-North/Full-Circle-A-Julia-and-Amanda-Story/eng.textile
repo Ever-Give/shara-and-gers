@@ -1,6 +1,6 @@
 Full Circle - A Julia & Amanda Story
 	(Female Desperation)
-Author: David North (2008-09-20?)
+Author: David North (2008-09-24)
 
 We all know when we've made a serious mistake in life, usually after the fact when it's too late to do anything about it. That's how I thought I was with Julia: she had left me for a London lawyer who made more money than I could ever hope to do, and I'd even got involved with Amanda, her mother, a wonderfully well-preserved woman in her middle forties. My Mrs. Robinson, if you will.
 
