@@ -1,6 +1,6 @@
 The Secretary Who Had to Hold It. Part 5
-	(Female Desperation)
-Author: David North (2007-10-20)
+ (Female Desperation)
+Author: David North (2007-10-20) f B#094
 
 My interactions with Katherine Bond would surely have reached the inevitable climax had it not been for the worst late-spring storm to hit the south coast of Britain in decades.
 
@@ -60,7 +60,7 @@ As I described the state of play with the most remote holding tank, Thompson pun
 
 "How the hell did you let the plant get into such an advanced state of deterioration? I'm going to have every yacht owner in the entire basin area chewing off my bollocks before morning!"
 
-Oh yes, I thought, dozens of affluent yacht owners whose vessels would soon be floating in effluent. The poetry of it appealed to me. I had to concede that Thompson's interpretation was correct. After whining to him and listening to pacificatory platitudes for a while -- a very little while -- they would start calling their local M.P.s, and in no time at all the Authority's budget would be under threat.
+Oh yes, I thought, dozens of affluent yacht owners whose vessels would soon be floating in effluent. The poetry of it appealed to me. I had to concede that Thompson's interpretation was correct. After whining to him and listening to pacificatory platitudes for a while — a very little while — they would start calling their local M.P.s, and in no time at all the Authority's budget would be under threat.
 
 My own inclination would be to tell the arrogant bastards to stop crapping in their toilets, or failing that, donate some of their obscene wealth to cover the costs of renovating the local sewage works so that their copious output of crap could be properly sanitized. They, in turn, would then gripe about all the taxes they paid to support public amenities, unaware that these funds rarely trickled down to where they would actually do some good.
 
@@ -328,7 +328,9 @@ I glanced at the clock on the dashboard - eight fifteen. If we were to stand any
 
 "He'll use it against you, more like," she corrected. "No, please just keep going. I'll cross my legs until we get there and then make a mad dash for the loo." She considered for a moment, then added, "Oh."
 
-"What is it?" "I don't know where anything is at Head Office. Will you have time to show me where the loos are?"
+"What is it?"
+
+"I don't know where anything is at Head Office. Will you have time to show me where the loos are?"
 
 "Of course. Don't worry."
 
@@ -434,7 +436,7 @@ Thompson shot me an equally cold look before answering. "I receive dozens of req
 
 For one of the most unspoilt stretches of coastline, read, a harbour where the boats of several dozen wealthy and highly influential people are moored.
 
-"There were other matters which had the same -- or greater risk -- of doing environmental damage." Thompson argued, and I noted that he was avoiding specificities.
+"There were other matters which had the same — or greater risk — of doing environmental damage." Thompson argued, and I noted that he was avoiding specificities.
 
 Foster scowled, then turned back to face me. "Did you make the urgency of this situation sufficiently clear in your reports to the Divisional Director, Mr. Denes?"
 
