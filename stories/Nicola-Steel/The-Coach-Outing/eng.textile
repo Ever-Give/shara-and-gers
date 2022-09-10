@@ -1,6 +1,6 @@
 The Coach Outing
 	
-Author: Nicola Steele (2001-04-17)
+Author: Nicola Steele (2001-04-17) f C#303
 
 The Bladder Holding Coach Outing - Ouch! A bursting bladder and no hope of the loo!
 
